@@ -1,0 +1,83 @@
+it looks like a periodic table :)
+from Zach Feeser to everyone:    10:10 AM
+http://www.viemu.com/vi-vim-cheat-sheet.gif
+from Zach Feeser to everyone:    10:14 AM
+https://alta3.com/posters
+to Zach Feeser (privately):    10:19 AM
+hey where can I get my working terminal?
+to Zach Feeser (privately):    10:22 AM
+Looks like mine is missing
+from Kurt to everyone:    10:40 AM
+gitlab
+to Zach Feeser (privately):    11:13 AM
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+fatal: empty ident name (for <wangiik@gmail.com>) not allowed
+to Zach Feeser (privately):    11:13 AM
+I got this error when I tried to commit
+to Zach Feeser (privately):    11:14 AM
+Any idea?
+to Zach Feeser (privately):    11:14 AM
+ok
+from Pamela Kilwein to everyone:    11:22 AM
+done
+from Syed Haq to everyone:    11:22 AM
+Done
+from Himanshu to everyone:    11:30 AM
+Done
+from Kenny Hou to everyone:    11:32 AM
+done
+from Keith Ng to everyone:    11:34 AM
+done
+from Navdeep Singh to everyone:    11:35 AM
+done
+from Sharon Oreski to everyone:    11:37 AM
+done
+from Anthony to everyone:    11:38 AM
+done
+from Regina Felton to everyone:    11:41 AM
+I'm still working
+from Zach Feeser to everyone:    11:44 AM
+https://desktop.github.com/
+from Patricia Verbanic to everyone:    11:46 AM
+done
+from Zach Feeser to everyone:    11:51 AM
+https://desktop.github.com/
+from Zach Feeser to everyone:    12:52 PM
+see step 34, regina
+from Pamela Kilwein to everyone:    1:22 PM
+yes
+from Keith Ng to everyone:    1:43 PM
+dict()
+from Pamela Kilwein to everyone:    1:44 PM
+Is there a way to display contents of your buffer?.... for example ... I want to remind myself what I named something earlier
+from Zach Feeser to everyone:    2:08 PM
+pamela --> you can use the locals(), globals() and dir() functions to dump what is currenlty in the system
+from Zach Feeser to everyone:    2:08 PM
+locals() is prob what you want
+from Pamela Kilwein to everyone:    2:15 PM
+awesome = thanls Zach
+from Keith Ng to everyone:    2:36 PM
+hi, anyone can copy and paste into lab terminal ? i cannot do
+from Keith Ng to everyone:    2:38 PM
+control-shift-v works for me
+from Keith Ng to everyone:    2:38 PM
+i don't have "insert" on my chomebook :)
+from Zach Feeser to everyone:    2:57 PM
+Sure! no problem
+from Patricia Verbanic to everyone:    2:59 PM
+I get an error that list index out of range - what would cause this?
+from Zach Feeser to everyone:    3:17 PM
+https://www.json.org/json-en.html
+from Zach Feeser to everyone:    3:18 PM
+https://tools.ietf.org/html/rfc7159
+from Patricia Verbanic to everyone:    3:28 PM
+hi Zach not sure if it is just me - but at times the video / sound goes out when you go between screens?
+from Zach Feeser to everyone:    3:30 PM
+https://tools.ietf.org/html/rfc7231
+from Zach Feeser to everyone:    3:36 PM
+https://tools.ietf.org/html/rfc3986
+from Zach Feeser to everyone:    3:37 PM
+https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm
